@@ -1,16 +1,79 @@
-## Hi there 👋
-
 <!--
-**AlexisSamboy/AlexisSamboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+README estilo portafolio (solo reemplaza lo que dice: TU_...)
+Coloca tu banner en: /assets/banner.png
 -->
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner - TU NOMBRE" width="100%" />
+</p>
+
+<h1 align="center">TU NOMBRE</h1>
+<p align="center">
+  <b>TU ROL / ESPECIALIDAD</b> · TU SUBTÍTULO (ej: Data Analyst | BI | ML Enthusiast)
+</p>
+
+<p align="center">
+  <!-- BOTONES / ICONOS (cambia los links) -->
+  <a href="mailto:TU_EMAIL" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+## 🤝 Contáctame
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Languages and Tools
+
+<p align="center">
+  <!-- Cambia / agrega los que tú usas -->
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 📌 Proyectos destacados
+
+| Proyecto | Qué hice | Link |
+|---|---|---|
+| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [`/sql/ventas`](./sql/ventas) |
+| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [`/powerbi/sql-ventas`](./powerbi/sql-ventas) |
+
+---
+
+## 📊 GitHub Stats (opcional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true" />
+</p>
+
+<!-- FIN -->
