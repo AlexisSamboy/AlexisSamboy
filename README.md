@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexis-samboy-herrera/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20Samboy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://alexissamboy.github.io/alexissamboy-data-portafolio/" target="_blank" rel="noopener noreferrer">
-    <img alt="Web" src="https://img.shields.io/badge/Web-Portafolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Visitar-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexissamboy1998@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Alexis%2C%0A%0A" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
