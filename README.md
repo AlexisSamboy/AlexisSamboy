@@ -13,16 +13,17 @@
 ## 🤝 Contáctame
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/alexis-samboy-herrera/)" target="_blank">
-    <img src="assets/icons/linkedin.png" />
+  <a href="https://www.linkedin.com/in/alexis-samboy-herrera/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="42" height="42" style="margin: 0 10px;" />
   </a>
-  <a href="(https://github.com/AlexisSamboy)" target="_blank">
-    <img src="assets/icons/github.png" />
+  <a href="https://github.com/AlexisSamboy" target="_blank" rel="noopener noreferrer">
+    <img src="assets/icons/github.png" alt="GitHub" width="42" height="42" style="margin: 0 10px;" />
   </a>
-  <a href="mailto:alexissamboy1998@gmail.com" target="_blank">
-    <img src="assets/icons/outlook.png" />
+  <a href="mailto:alexissamboy1998@gmail.com">
+    <img src="assets/icons/outlook.png" alt="Email" width="42" height="42" style="margin: 0 10px;" />
   </a>
 </p>
+
 
 ---
 
