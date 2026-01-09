@@ -1,20 +1,15 @@
-<!--
-README estilo portafolio (solo reemplaza lo que dice: TU_...)
-Coloca tu banner en: /assets/banner.png
--->
-
 <p align="center">
-  <img src="assets/banner.png" alt="Banner - TU NOMBRE" width="100%" />
+  <img src="assets/banner.png" alt="Banner - Alexis Samboy" width="100%" />
 </p>
 
-<h1 align="center">TU NOMBRE</h1>
+<h1 align="center">Alexis V. Samboy H</h1>
 <p align="center">
-  <b>TU ROL / ESPECIALIDAD</b> · TU SUBTÍTULO (ej: Data Analyst | BI | ML Enthusiast)
+  Data Analytics | Power BI | SQL Server
 </p>
 
 <p align="center">
   <!-- BOTONES / ICONOS (cambia los links) -->
-  <a href="mailto:TU_EMAIL" target="_blank">
+  <a href="mailto:alexissamboy1998@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/TU_USUARIO" target="_blank">
