@@ -6,24 +6,20 @@
 <p align="center">
   Data Analytics | Power BI | SQL Server
 </p>
-
 <br/>
----
 
 ## 🤝 Contáctame
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexis-samboy-herrera/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="42" height="42" style="margin: 0 10px;" />
+  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AlexisSamboy" target="_blank" rel="noopener noreferrer">
-    <img src="assets/icons/github.png" alt="GitHub" width="42" height="42" style="margin: 0 10px;" />
+  <a href="https://github.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:alexissamboy1998@gmail.com">
-    <img src="assets/icons/outlook.png" alt="Email" width="42" height="42" style="margin: 0 10px;" />
+  <a href="mailto:TU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
