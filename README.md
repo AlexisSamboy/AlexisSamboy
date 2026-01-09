@@ -43,15 +43,9 @@
 
 | Proyecto | Qué hice | Link |
 |---|---|---|
-| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [`/sql/ventas`](./sql/ventas) |
-| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [`/powerbi/sql-ventas`](./powerbi/sql-ventas) |
+| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [`/sql_projects`](./sql_projects) |
+| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [`/power-bi_projects`](./power-bi_projects) |
+| **EDA (Python) — Perfil Cliente Bancario** | Limpieza de datos, valores faltantes, EDA y visualizaciones iniciales | [`Ver proyecto`](./proyectos/python_projects/01_perfil_cliente_bancario/Readme.md) |
 
 ---
-
-## 📊 GitHub Stats (opcional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true" />
-</p>
-
 <!-- FIN -->
