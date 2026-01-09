@@ -44,7 +44,9 @@
 | Proyecto | Qué hice | Link |
 |---|---|---|
 | **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [Ver carpeta del proyecto](https://github.com/AlexisSamboy/alexissamboy-data-portafolio/tree/main/proyectos/sql_projects/01_tabla_ventas_gerentes) |
-| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [Power BI Projects](./power-bi_projects) |
-| **EDA (Python) — Perfil Cliente Bancario** | Limpieza, nulos/outliers, EDA y gráficas |  [Notebook](./proyectos/python_projects/01_perfil_cliente_bancario/notebook/01_limpieza_datos.ipynb) |
+| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [Ver carpeta del proyecto](https://github.com/AlexisSamboy/alexissamboy-data-portafolio/tree/main/proyectos/power-bi_projects
+/01_analisis_ventas/) |
+| **EDA (Python) — Perfil Cliente Bancario** | Limpieza, nulos/outliers, EDA y gráficas | [Ver carpeta del proyecto](https://github.com/AlexisSamboy/alexissamboy-data-portafolio/tree/main/proyectos/python_projects
+/01_perfil_cliente_bancario/) |
 
 ---
