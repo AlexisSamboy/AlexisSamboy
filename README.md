@@ -43,9 +43,8 @@
 
 | Proyecto | Qué hice | Link |
 |---|---|---|
-| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [`/sql_projects`](./sql_projects) |
-| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [`/power-bi_projects`](./power-bi_projects) |
-| **EDA (Python) — Perfil Cliente Bancario** | Limpieza, nulos/outliers, EDA y gráficas· [`Notebook`](./proyectos/python_projects/01_perfil_cliente_bancario/notebook/01_limpieza_datos.ipynb) |
+| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [SQL Projects](./sql_projects) |
+| **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [Power BI Projects](./power-bi_projects) |
+| **EDA (Python) — Perfil Cliente Bancario** | Limpieza, nulos/outliers, EDA y gráficas | [README](./proyectos/python_projects/01_perfil_cliente_bancario/Readme.md) · [Notebook](./proyectos/python_projects/01_perfil_cliente_bancario/notebook/01_limpieza_datos.ipynb) |
 
 ---
-<!-- FIN -->
