@@ -43,7 +43,7 @@
 
 | Proyecto | Qué hice | Link |
 |---|---|---|
-| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [SQL Projects](./sql_projects) |
+| **SQL Ventas (Básico)** | SELECT, filtros, alias, cálculos, ORDER BY | [SQL Projects](./sql_projects/01_tabla_ventas_gerentes/queries_ventas_basico.sql) |
 | **SQL → Power BI** | Conexión a SQL Server + dashboard (ventas por ciudad/producto/fecha) | [Power BI Projects](./power-bi_projects) |
 | **EDA (Python) — Perfil Cliente Bancario** | Limpieza, nulos/outliers, EDA y gráficas |  [Notebook](./proyectos/python_projects/01_perfil_cliente_bancario/notebook/01_limpieza_datos.ipynb) |
 
