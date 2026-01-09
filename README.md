@@ -4,22 +4,26 @@
 
 <h1 align="center">Alexis V. Samboy H</h1>
 <p align="center">
-  Data Analytics | Power BI | SQL Server
+  Data Analytics | SQL Server | Python | Power BI
 </p>
 <br/>
 
 ## 🤝 Contáctame
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexis-samboy-herrera/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexis-samboy-herrera/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AlexisSamboy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://alexissamboy.github.io/alexissamboy-data-portafolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Sitio%20Web-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:alexissamboy1998@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <!-- Abre un correo nuevo dirigido a ti -->
+  <a href="mailto:alexissamboy1998@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Alexis%2C%0A%0ATe%20escribo%20desde%20tu%20perfil%20de%20GitHub.%0A%0A">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
