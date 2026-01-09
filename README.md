@@ -9,13 +9,11 @@
 <br/>
 
 ## 🤝 Contáctame
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-samboy-herrera/)
 [![Web](https://img.shields.io/badge/Web-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexissamboy.github.io/alexissamboy-data-portafolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alexissamboy1998@gmail.com)
-
-
-
+</p>
 ---
 
 ## 🧰 Languages and Tools
