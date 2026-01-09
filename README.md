@@ -10,9 +10,9 @@
 
 ## 🤝 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-samboy-herrera/)
-[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-Visitar-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexissamboy.github.io/alexissamboy-data-portafolio/)
-[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alexissamboy1998@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Alexis%2C%0A%0A)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-samboy-herrera/)
+[![Web](https://img.shields.io/badge/Web-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexissamboy.github.io/alexissamboy-data-portafolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alexissamboy1998@gmail.com)
 
 
 
