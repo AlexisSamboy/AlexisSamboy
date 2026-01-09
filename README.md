@@ -7,34 +7,20 @@
   Data Analytics | Power BI | SQL Server
 </p>
 
-<p align="center">
-  <!-- BOTONES / ICONOS (cambia los links) -->
-  <a href="mailto:alexissamboy1998@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/TU_USUARIO" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <br/>
-
 ---
 
 ## 🤝 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="(https://www.linkedin.com/in/alexis-samboy-herrera/)" target="_blank">
+    <img src="assets/icons/linkedin.png" />
   </a>
-  <a href="https://github.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="(https://github.com/AlexisSamboy)" target="_blank">
+    <img src="assets/icons/github.png" />
   </a>
-  <a href="mailto:TU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:alexissamboy1998@gmail.com" target="_blank">
+    <img src="assets/icons/outlook.png" />
   </a>
 </p>
 
